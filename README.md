@@ -29,5 +29,5 @@ Open http://localhost:3000
 - server/data - seed data (destinations.json, packages.json)
 
 ## Team
-- Student Name 1
-- Student Name 2
+- ROLLY MAR GUIBAO
+- BREXIL PATES
