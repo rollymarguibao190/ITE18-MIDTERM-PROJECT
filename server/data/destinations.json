@@ -1,0 +1,50 @@
+[
+  {
+    "id": "siargao",
+    "name": "Siargao Island",
+    "province": "Surigao del Norte",
+    "description": "The surfing capital of the Philippines, famous for Cloud 9's barreling waves, palm-fringed lagoons, hidden beaches, and a laid-back island vibe that draws travelers from around the world.",
+    "image": "https://images.pexels.com/photos/38265496/pexels-photo-38265496.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "highlights": ["Cloud 9 Surfing", "Sugba Lagoon", "Magpupungko Rock Pools", "Naked Island", "Daku Island"]
+  },
+  {
+    "id": "dinagat",
+    "name": "Dinagat Islands",
+    "province": "Province of Dinagat Islands",
+    "description": "A remote archipelago of pristine turquoise coves, dramatic limestone cliffs, and quiet white-sand beaches — a true off-the-beaten-path paradise in northern Caraga.",
+    "image": "https://images.pexels.com/photos/38370423/pexels-photo-38370423.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "highlights": ["Cab-ilan Beach", "Bita-og Beach", "Island Hopping", "Limestone Cliffs"]
+  },
+  {
+    "id": "agusan-marsh",
+    "name": "Agusan Marsh",
+    "province": "Agusan del Sur",
+    "description": "One of the Philippines' largest wetland sanctuaries — a vast network of rivers, lakes, and floating villages teeming with birdlife, perfect for tranquil river safaris and cultural encounters.",
+    "image": "https://images.pexels.com/photos/36584778/pexels-photo-36584778.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "highlights": ["Man-made Floating Village", "Birdwatching", "River Safari", "Lake Masiapag"]
+  },
+  {
+    "id": "higatangan",
+    "name": "Higatangan Island",
+    "province": "Northern Samar (Caraga access via Surigao)",
+    "description": "A long sandbar fringed by clear blue waters and palm trees, surrounded by vibrant coral gardens — ideal for swimming, snorkeling, and quiet beach days.",
+    "image": "https://images.pexels.com/photos/8031711/pexels-photo-8031711.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "highlights": ["Higatangan Sandbar", "Snorkeling", "Coral Gardens", "Island Beach BBQ"]
+  },
+  {
+    "id": "tinuy-an",
+    "name": "Tinuy-an Falls",
+    "province": "Surigao del Sur",
+    "description": "Often called the 'Little Niagara of the Philippines,' this spectacular multi-tiered curtain waterfall cascades through lush jungle — one of the widest falls in the country.",
+    "image": "https://images.pexels.com/photos/2544854/pexels-photo-2544854.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "highlights": ["Curtain Waterfall", "Jungle Trek", "River Bamboo Raft", "Swimming Lagoon"]
+  },
+  {
+    "id": "butuan",
+    "name": "Butuan City",
+    "province": "Agusan del Norte",
+    "description": "A historic river city and gateway to Caraga, known for ancient balangay boats, museum heritage, and relaxing cruises along the Agusan River — where culture meets nature.",
+    "image": "https://images.pexels.com/photos/3923737/pexels-photo-3923737.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "highlights": ["Balangay Museum", "Agusan River Cruise", "Mt. Mayapay Viewpoint", "Heritage Walk"]
+  }
+]

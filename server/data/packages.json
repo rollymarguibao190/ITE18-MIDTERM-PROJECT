@@ -1,0 +1,90 @@
+[
+  {
+    "id": "siargao-surf-3d",
+    "name": "Siargao Surf & Island Escape",
+    "destinationId": "siargao",
+    "destinationName": "Siargao Island",
+    "durationDays": 3,
+    "price": 8500,
+    "image": "https://images.pexels.com/photos/38265496/pexels-photo-38265496.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "Three days of surf, lagoons, and island hopping across Siargao's highlights. Ride the Cloud 9 boardwalk, paddle through Sugba Lagoon, and unwind on Magpupungko's rock pools.",
+    "includes": ["2 nights hotel stay", "Island hopping tour", "Beginner surf lesson", "Daily breakfast", "Local guide"]
+  },
+  {
+    "id": "siargao-adventure-5d",
+    "name": "Siargao Adventure Trail",
+    "destinationId": "siargao",
+    "destinationName": "Siargao Island",
+    "durationDays": 5,
+    "price": 13500,
+    "image": "https://images.pexels.com/photos/33757640/pexels-photo-33757640.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "Five immersive days on Siargao — surf sessions, cave pools, mangrove kayaking, and the island's best hidden beaches for travelers who want the full experience.",
+    "includes": ["4 nights accommodation", "Surf sessions", "Cave and lagoon tours", "All transfers", "Local guide"]
+  },
+  {
+    "id": "dinagat-islands-2d",
+    "name": "Dinagat Island Hopping",
+    "destinationId": "dinagat",
+    "destinationName": "Dinagat Islands",
+    "durationDays": 2,
+    "price": 5200,
+    "image": "https://images.pexels.com/photos/38370423/pexels-photo-38370423.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "A weekend of turquoise coves, limestone cliffs, and secluded white-sand beaches. Hop between Cab-ilan and Bita-og with a local boatman and guide.",
+    "includes": ["Boat transfers", "Picnic lunch", "Island guide", "Snorkeling gear"]
+  },
+  {
+    "id": "dinagat-getaway-4d",
+    "name": "Dinagat Hidden Coves Escape",
+    "destinationId": "dinagat",
+    "destinationName": "Dinagat Islands",
+    "durationDays": 4,
+    "price": 9800,
+    "image": "https://images.pexels.com/photos/37910074/pexels-photo-37910074.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "Four days exploring the lesser-known coves and sandbars of Dinagat, with overnight stays near the beach and sunset cruises around the archipelago.",
+    "includes": ["3 nights beachfront stay", "Daily island hopping", "Sunset cruise", "Meals", "Guide"]
+  },
+  {
+    "id": "agusan-marsh-day",
+    "name": "Agusan Marsh River Safari",
+    "destinationId": "agusan-marsh",
+    "destinationName": "Agusan Marsh",
+    "durationDays": 1,
+    "price": 2100,
+    "image": "https://images.pexels.com/photos/36584778/pexels-photo-36584778.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "A guided day trip through the floating village, wetlands, and birdwatching hotspots of Agusan Marsh — a serene journey into one of the Philippines' largest wetland sanctuaries.",
+    "includes": ["Boat tour", "Local guide", "Snacks", "Village visit"]
+  },
+  {
+    "id": "agusan-marsh-2d",
+    "name": "Agusan Marsh & Culture Stay",
+    "destinationId": "agusan-marsh",
+    "destinationName": "Agusan Marsh",
+    "durationDays": 2,
+    "price": 4800,
+    "image": "https://images.pexels.com/photos/14021573/pexels-photo-14021573.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "Two days on the marsh — river safari on day one, an overnight at a floating village, and a cultural exchange with the Manobo community on day two.",
+    "includes": ["Overnight village stay", "River safari", "Cultural workshop", "Meals", "Guide"]
+  },
+  {
+    "id": "tinuy-an-enchanting-2d",
+    "name": "Tinuy-an Falls & Enchanted River",
+    "destinationId": "tinuy-an",
+    "destinationName": "Tinuy-an Falls",
+    "durationDays": 2,
+    "price": 4500,
+    "image": "https://images.pexels.com/photos/2544854/pexels-photo-2544854.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "Visit the curtain-like Tinuy-an Falls and the famously blue Enchanted River in Hinatuan, with jungle treks and swimming stops along the way.",
+    "includes": ["Transfers", "Falls entrance", "Enchanted River tour", "Lunch", "Guide"]
+  },
+  {
+    "id": "butuan-heritage-1d",
+    "name": "Butuan Heritage River Cruise",
+    "destinationId": "butuan",
+    "destinationName": "Butuan City",
+    "durationDays": 1,
+    "price": 1800,
+    "image": "https://images.pexels.com/photos/3923737/pexels-photo-3923737.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "A day discovering Butuan's ancient balangay boats, regional museum, and a relaxing sunset cruise along the historic Agusan River.",
+    "includes": ["Museum entry", "River cruise", "Lunch", "City tour guide"]
+  }
+]

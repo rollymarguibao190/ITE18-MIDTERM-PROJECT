@@ -1,0 +1,15 @@
+@"
+node_modules
+.nuxt
+.nitro
+.cache
+.output
+.data
+.env
+dist
+*.log*
+server/data/users.json
+server/data/sessions.json
+server/data/bookings.json
+"@ | Set-Content -Path .gitignore -Encoding ascii
+Get-Content .gitignore
