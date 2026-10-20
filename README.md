@@ -1,75 +1,33 @@
-# Nuxt Minimal Starter
+﻿# Caraga Tour
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A tour discovery and booking web app for the Caraga Region, Philippines.
+Built for ITE 18 - Application Development and Emerging Technologies (Frontend Track, Midterm).
 
-## Setup
+## Tech stack
+- Nuxt 4 / Vue 3 (TypeScript)
+- Pinia (state management)
+- Tailwind CSS
+- Nitro server routes with JSON files as the mock API
 
-Make sure to install dependencies:
-
+## Run locally
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
+Open http://localhost:3000
 
-## Production
+## Demo accounts (prototype only)
+- Admin: admin@caraga.dev / admin123
+- Operator: operator@caraga.dev / operator123
+- Customer: customer@caraga.dev / customer123
 
-Build the application for production:
+## Project structure
+- app/pages - routes
+- app/components - reusable components
+- app/stores - Pinia stores (auth, destinations, packages, bookings)
+- server/api - mock REST API
+- server/data - seed data (destinations.json, packages.json)
 
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Team
+- Student Name 1
+- Student Name 2
